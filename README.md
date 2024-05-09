@@ -20,7 +20,7 @@
 
 <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
   
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dToolzProjects&theme=material-palenight&show_icons=true" alt="d3n1snet" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dToolzProjects&theme=material-palenight&show_icons=true" alt="dToolzProjects" /> </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
 
