@@ -19,7 +19,7 @@
 </img> </p>
 
 <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
-  
+  <img height = "140px" src = "https://camo.githubusercontent.com/f25f41351635d24237d5a8ed8dae7c8f636ecfca082ea1986629482a86cedf37/68747470733a2f2f626c656163682e6465762f7374617469632f696d672f747970696e672e77656270" >
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dToolzProjects&theme=material-palenight&show_icons=true" alt="dToolzProjects" /> </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
