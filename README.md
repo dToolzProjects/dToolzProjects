@@ -29,6 +29,8 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,nodejs&theme=dark" />
+
+      <img height = "140px" src = "https://raw.githubusercontent.com/vhtnguyen/vhtnguyen/main/assets/Right_Side.gif" >
   </a>
 </p>
 
