@@ -29,8 +29,6 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,nodejs&theme=dark" />
-
-      <img height = "140px" src = "https://raw.githubusercontent.com/vhtnguyen/vhtnguyen/main/assets/Right_Side.gif" >
   </a>
 </p>
 
@@ -40,3 +38,4 @@
 <img align='center' src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" >
 <img align='center' src="https://camo.githubusercontent.com/ffa3c829530ea5da56c5c5d2c4f585010a0343ca36048e9e1f77357bd2634473/68747470733a2f2f72616e642d78797a2e6e6f772e73682f6170692f68656c6c6f" >
 <img align='center' src="https://raw.githubusercontent.com/guilhermelim/guilhermelim/output/github-contribution-grid-snake.svg" >
+      <img height = "140px" src = "https://raw.githubusercontent.com/vhtnguyen/vhtnguyen/main/assets/Right_Side.gif" >
