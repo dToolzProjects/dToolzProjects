@@ -1,6 +1,5 @@
 <div align = "center">
     <img height = "140px" src = "https://github.com/JahidHasanCO/JahidHasanCo/blob/main/cover%20jahid%20hasan.png" >
-  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
   <br><p align="center"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dToolzProjects}/count.svg" /></p>
 </div>
@@ -34,6 +33,8 @@
 
 <br>
 </div>
+
+<img align='center' src="https://stardev.io/developers/dToolzProjects/badge/languages/global.svg >
 
 <img align='center' src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" >
 <img align='center' src="https://camo.githubusercontent.com/ffa3c829530ea5da56c5c5d2c4f585010a0343ca36048e9e1f77357bd2634473/68747470733a2f2f72616e642d78797a2e6e6f772e73682f6170692f68656c6c6f" >
