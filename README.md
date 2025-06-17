@@ -37,7 +37,4 @@
 <img align='center' src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" >
 
 <img align='center' src="https://raw.githubusercontent.com/guilhermelim/guilhermelim/output/github-contribution-grid-snake.svg" >
-      
 
-
-<img align='center' src="https://github.com/DRgreenT/DrGreenT/blob/master/banner_1.gif" >
