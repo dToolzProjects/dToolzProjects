@@ -1,4 +1,5 @@
 <div align = "center">
+    https://git.io/typing-svg
     <img height = "140px" src = "https://github.com/JahidHasanCO/JahidHasanCo/blob/main/cover%20jahid%20hasan.png" >
   <br><p align="center"><b>Visitors Count</b></p>
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dToolzProjects}/count.svg" /></p>
