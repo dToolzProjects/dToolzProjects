@@ -39,5 +39,7 @@
 
 <img align='center' src="https://raw.githubusercontent.com/guilhermelim/guilhermelim/output/github-contribution-grid-snake.svg" >
 
+<img align='center' src="[https://raw.githubusercontent.com/guilhermelim/guilhermelim/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Bo0ii/Bo0ii/output/github-contribution-grid-snake-dark.svg)" >
+
 <img align='center' src="https://raw.githubusercontent.com/Rywent/Rywent/output/github-contribution-grid-snake-dark.svg" >
 
