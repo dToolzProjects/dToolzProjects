@@ -5,14 +5,6 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{dToolzProjects}/count.svg" /></p>
 </div>
 
-
-
-<p align="center"> <img 
-     src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dToolzProjects" 
-     alt="Profile Stars">
-</img>
-</img> </p>
-
 <img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dToolzProjects&theme=material-palenight&show_icons=true" alt="dToolzProjects" /> </p>
